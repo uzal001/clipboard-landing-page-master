@@ -82,7 +82,7 @@ p {
 /* --------------------- */
 
 body {
-    background: url(./images/bg-header-desktop.png) no-repeat;
+    background: url(./images/bg-header-desktop.png) no-repeat cover;
     
 }
 /*---- header -----*/
