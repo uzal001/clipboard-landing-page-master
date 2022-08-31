@@ -82,8 +82,9 @@ p {
 /* --------------------- */
 
 body {
-    background: url(./images/bg-header-desktop.png) no-repeat cover;
-    
+    background: url(./images/bg-header-desktop.png) no-repeat;
+    background-size: 100%;
+    background-position: top;
 }
 /*---- header -----*/
 header {
